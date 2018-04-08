@@ -12,6 +12,6 @@ I pushed it here in order to have it available whenever I move from one pc to an
 # If you really want to use it
 First of all: why? By the way, simply open a shell and call:
 - `python pomodoro.py` => It will do 4 rounds of 25 minutes, with a five-minute break after each round
-- `python pomodoro.py <focus_time> <relax_time>` => it will do 4 round of <focus_time> minutes, with a break of <relax_time> minutes after each round
+- `python pomodoro.py <focus_time> <relax_time> <n_rounds>` => it will do <n_rounds> rounds of <focus_time> minutes, with a break of <relax_time> minutes after each round
 
 You cannot pause it, you cannot add a task list and so on... I have already said that: it is extremely simple
